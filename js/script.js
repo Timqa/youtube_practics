@@ -272,7 +272,7 @@ window.addEventListener('load', function(e) {
         width: '100%',
         videoId: 'M7lc1UVf-VE'
       });
-    }, 300);
+    }, 1500);
   }
   createVideo();
 
